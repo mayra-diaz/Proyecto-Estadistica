@@ -1,4 +1,5 @@
 ---
+tags: estadistica
 title: "Relación entre el autoestima y las reuniones sociales constantes"
 author: "Grupo 1"
 date: "Octubre 1, 2021"
@@ -8,7 +9,6 @@ output:
     incremental: true
     widescreen: true
     smaller: true
-  beamer_presentation: default
 ---
 
 
@@ -27,4 +27,32 @@ output:
 ## Tema{.smaller}
 
 **Autoestima e interacciones sociales estudiantes de la UTEC durante el periodo 2020-2021**
+
+
+## Sobre la investigación
+**Objetivo**
+
+
+**Factabilidad**
+
+
+
+## Preguntas de investigación
+
+
+
+## Marco Teórico
+
+
+
+## Obtención de datos
+
+
+## Variables
+
+
+## Análisis
+
+
+## Bibliografía
 
