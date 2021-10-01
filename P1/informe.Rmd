@@ -1,0 +1,30 @@
+---
+title: "Relación entre el autoestima y las reuniones sociales constantes"
+author: "Grupo 1"
+date: "Octubre 1, 2021"
+output:
+  ioslides_presentation: 
+    transition: slower
+    incremental: true
+    widescreen: true
+    smaller: true
+  beamer_presentation: default
+---
+
+
+## Autoestima Reuniones Sociales
+
+>- Ayelen Catacora Juanillo  201------  Líder
+
+>- Mayra Díaz Tramontana 201910147
+
+>- Walter Gonzalo Gonzales Cruz 202110468
+
+>- Derkhenz Ezer Valera Nuez 201------
+
+>- Jelser Arturo Saldaña Mas 202020140
+
+## Tema{.smaller}
+
+**Autoestima e interacciones sociales estudiantes de la UTEC durante el periodo 2020-2021**
+
