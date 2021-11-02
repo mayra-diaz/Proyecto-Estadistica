@@ -4,37 +4,38 @@ tags: estadistica
 ---
 
 # P1
-- **Título:** Relación entre el autoestima y las reuniones sociales constantes
-- **Título corto:** Autoestima Reuniones Sociales
+- **Título:** Relación entre la visión personal y las interacciones sociales
+- **Título corto:** Visión Personal e Interacciones Sociales
 
 |         Integrantes          |  Código   | Rol   |
 |:----------------------------:|:---------:| ----- |
-|   Ayelen Catacora Juanillo   | 202010225 | Líder |
+|   Ayelen Catacora Juanillo   | 202010225 |       |
 |    Mayra Díaz Tramontana     | 201910147 |       |
 | Walter Gonzalo Gonzales Cruz | 202110468 |       |
 |  Derkhenz Ezer Valera Nuez   | 201910470 |       |
 |  Jelser Arturo Saldaña Mas   | 202020140 |       |
 
-## I. Tema
+## Tema
 
->Autoestima e interacciones sociales de estudiantes de la UTEC durante el periodo 2020-2021
-
-
-### I.I. Introducción
-Las interacciones sociales ya sea, de manera presencial o virtual, tiene cierto impacto en la autoestima e imagen personal de una persona. Para comprobar esto, se hará un estudio estadístico en la cual nuestra población objeto de estudio serán los adultos jóvenes, estudiantes de UTEC, en Lima.
-
-Se estudiará la relación entre el autoestima y la imagen personal de una persona con respecto a la frecuencia y calidad de sus interacciones sociales, tanto presenciales como virtuales. Esto nos permitirá identificar el impacto de las interacciones, tanto de las de rutina (con sus convivientes) y las ocasionales (ej: salida con amigos) sobre una persona. Es importante resaltar la calidad y disfruta de las personas en cada tipo de interacción y la frecuencia para poder analizar cuáles tienen mayor/menor impacto y hallar las relaciones entre ellas.
+>Visión personal e interacciones sociales de adultos jóvenes durante el periodo 2020-2021
 
 
-### I.II. Objetivo
-Por medio de este estudio estadístico buscamos comprobar si existe una relación entre el autoestima y la imagen personal de una persona con respecto a la frecuencia y calidad de sus interacciones sociales. Por lo tanto, de existir tal relación, se buscará identificar que aspectos  son de mayor relevancia e impacto en el autoestima y la frecuencia y calidad de actividades sociales de una persona.
+### Introducción
+Las interacciones sociales ya sea, de manera presencial o virtual, tiene cierto impacto en la visión personal de una persona. Para comprobar esto, se hará un estudio estadístico, en el cual nuestra población objeto de estudio serán los adultos jóvenes en Lima.
 
-### I.III. Preguntas de investigación
-**Generales**
+Se estudiará la relación entre el visión personal de una persona con respecto a la frecuencia y calidad de sus interacciones sociales, tanto presenciales como virtuales. Esto nos permitirá identificar el impacto de estas sobre una persona, tanto de las de rutina (con sus convivientes) y las ocasionales (ej: salida con amigos). Es importante resaltar la calidad, disfrute y frecuencia de las personas en cada tipo de interacción para poder analizar cuáles tienen mayor/menor impacto y hallar las relaciones entre ellas.
+
+
+### Objetivo
+Buscamos comprobar si existe una relación entre la visión personal de una persona con respecto a la frecuencia y calidad de sus interacciones sociales. De existir tal relación, se buscará identificar qué aspectos son de mayor relevancia e impacto.
+
+
+### Preguntas de investigación
+####Generales
 - ¿Existe una relación entre la autoestima e imagen personal y la calidad y frecuencia de las interacciones sociales de un estudiante de UTEC en Lima, en el periodo 2020-2021?
 
 
-**Específicas**
+#### Específicas
 - ¿Los estudiantes con alta autoestima y/o un buen concepto de imagen personal llevan a cabo con alta frecuencia interacciones sociales de calidad eficiente?
 - ¿Los estudiantes con baja autoestima y/o un buen concepto de imagen personal llevan a cabo con una baja frecuencia de interacciones sociales de calidad deficiente?
 - ¿Las personas que se reúnen mas de una vez al mes con su familia se sienten bien con su físico y/o personalidad?
@@ -48,32 +49,39 @@ Por medio de este estudio estadístico buscamos comprobar si existe una relació
 
 
 
-### I.IV. Factibilidad
+### Factibilidad
 
-Para lograr llegar a la información que se propone de manera específica y concreta se planea realizar 150 encuestas. A adultos jóvenes, estudiantes de UTEC, en Lima en el 2020-2021, pues son nuestro público objetivo.  Dicha encuesta constará de tres partes:
-- Información básica
-Recolectaremos el sexo y la edad.
-- Interacciones sociales
-Preguntas acerca de la calidad y frecuencia de sus interacciones sociales son distintos grupos (familia y amigos).
-- Visión personal
-Preguntas referentes a el autoestima y la imagen personal.
+Para lograr llegar a la información que se propone de manera específica y concreta se planea realizar 150 encuestas. A adultos jóvenes en Lima en el 2020-2021. 
 
-## II. Marco Teórico
-### II.I Datos generales
+Dicha encuesta constará de tres partes:
 
-- Población: Estudiantes de UTEC en Lima en el periodo 2020-2021 
-- Unidad muestral: Cada estudiante de UTEC
-- Tipo de muestreo: Muestreo no probabilístico por conveniencia
+- Información básica:
+    Sexo y la edad.
 
-### II.II Diseño
-#### II.II.I. Población y muestra
-La población de la investigación son los estudiantes de la Universidad de Ingeniería y Tecnología-UTEC, ubicado en Barranco, Lima. De este grupo, se seleccionó 81 observaciones por, principalmente, conveniencia.
+- Interacciones sociales:
+    Calidad y frecuencia de sus interacciones sociales con distintos grupos (familia y amigos).
+    
+- Visión personal:
+    Preguntas referentes a su visión y personal.
 
-### II.III Obtención de datos
-Para el presente trabajo de investigación, se decidió emplear encuestas con Google Forms, para así poder recopilar la información de los participantes. A fin de asegurar la veracidad y procedencia de los datos, se restringió el acceso a la encuesta a aquellos usuarios que tengan una cuenta de Google que pertenece al dominio de UTEC, es decir, usuarios de la Universidad de Ingeniería y Tecnología.
+## Marco Teórico
+### Datos generales
+
+- Población: adultos jóvenes en Lima en el periodo 2020-2021
+- Unidad muestral: cada adulto jóven que llena la encuesta
+- Tipo de muestreo: muestreo no probabilístico por conveniencia
 
 
-### II.IV Variables
+### Diseño
+#### Población y muestra
+// TODO
+La población de investigación son los adultos jóvenes en Lima durante el periodo 2020-2021. De este grupo, se seleccionó 150 observaciones por, principalmente, conveniencia.
+
+### Obtención de datos
+Para el presente trabajo de investigación, se decidió emplear encuestas con Google Forms, para así poder recopilar la información de los participantes. A fin de asegurar la veracidad y procedencia de los datos, se restringió el acceso a la encuesta a aquellos usuarios que tengan una cuenta de Google y solo puedan llenarla 1 vez.
+
+
+### Variables
 Se dividió las variables en tres grupos: datos generales, relaciones interpersonales y autoestima.
 
 |                                       Pregunta                                       |                   Variable                   |  Tipo de variable  |                Restricciones                |
@@ -93,13 +101,12 @@ Se dividió las variables en tres grupos: datos generales, relaciones interperso
 |              Qué tan satisfecha estás contigo, en general, actualmente               |        Satisfacción personal general         | Categórica ordinal |     Número entero en el intervalo [1;5]     |
 |                  Qué tan satisfecha estás con tu físico actualmente                  |         Satisfacción personal física         | Categórica ordinal |     Número entero en el intervalo [1;5]     |
 |               Qué tan satisfecha estás con tu personalidad actualmente               |    Satisfacción personal de personalidad     | Categórica ordinal |     Número entero en el intervalo [1;5]     |
-|         ¿Se ha sentido ofendido alguna vez por lo que ha dicho otra persona?         |      Experiencia de haber sido ofendido      | Categórica nominal |                   Sí, No                    |
 |           ¿Cuando está con amigos/as, puede relajarse y ser usted mismo/a?           |             Comodidad con amigos             | Categórica nominal |               Sí, No, A veces               |
 |             ¿Cuánto te preocupa la impresión que causas sobre los demás?             |        Preocupación de opinión ajena         | Categórica ordinal |     Número entero en el intervalo [1;5]     |
 |              ¿Cuántas veces al año realizas introspección a tu persona?              |         Frecuencia de introspección          | Categórica nominal  | Nunca, 1 vez al año, Más de 2 veces al año. |
 
 
-## IV. Base de datos
+## Base de datos
 La base de datos tiene la forma:
 ```{r}
 library(readr)
@@ -108,7 +115,7 @@ head(LD)
 ```
 
 
-### IV.I Renombramiento de variables y Limpieza de datos
+### Limpieza de datos
 
 **Renombramiento de variables**
 
@@ -133,12 +140,12 @@ LD %>% rename(
   Autoconocimiento = `Cuánto sientes que te conoces`, 
   SPersonal = `Qué tan satisfecha estás contigo, en general, actualmente`, 
   SFisica = `Qué tan satisfecha estás con tu físico actualmente`, 
-  SPersonalidad = `Qué tan satisfecha estás con tu personalidad actualmente`, 
-  EOfensa = `¿Se ha sentido ofendido alguna vez por lo que ha dicho otra persona?`, 
+  SPersonalidad = `Qué tan satisfecha estás con tu personalidad actualmente`,
   ComodidadA = `¿Cuando está con amigos/as, puede relajarse y ser usted mismo/a?`, 
   POpinionAjena = `¿Cuánto te preocupa la impresión que causas sobre los demás?`, 
   FIntrospeccion  = `¿Cuántas veces al año realizas introspección a tu persona?`) -> LDC
 ```
+
 
 **Limpieza de respuestas**
 
@@ -153,10 +160,12 @@ LDC$FIntrospeccion[
     ] <- "2 veces al año"
 ```
 
+
 **Eliminación de datos atípicos (edades fuera del público objetivo)**
 ```{r}
 LDC[LDC$Edad < 32, ] -> LDC
 ```
+
 
 **Trabajando con escalas de Likert**
 ```{r}
@@ -172,8 +181,9 @@ LDC$POpinionAjena <- cut(LDC$POpinionAjena, breaks=c(0,1,2,3,4,5), labels=c("Muy
 
 
 
-## III. Análisis
-### IV.I. Variables numéricas
+## Análisis
+### Análisis individual
+#### Variables numéricas
 
 - Edad
 ```{r}
@@ -234,7 +244,7 @@ boxplot(data$MDAmigos/60,
 ```
 
 
-### IV.II. Variables categóricas
+#### Variables categóricas
 Librerías utilizadas:
 ```{r}
 library(ggplot2)
@@ -322,15 +332,6 @@ ggplot(data = LDC)+geom_bar(aes(x=SPersonalidad))+
   ylab("Cantidad")
 ```
 
-- Experiencia de haber sido ofendido
-```{r}
-ggplot(data = LDC)+geom_bar(aes(x=EOfensa))+
-  ggtitle(label="Barplot de experiencia de haber sido ofendido")+
-  theme_classic()+
-  xlab("Experiencia de haber sido ofendido")+
-  ylab("Cantidad")
-```
-
 - Comodidad con amigos
 ```{r}
 ggplot(data = LDC)+geom_bar(aes(x=ComodidadA))+
@@ -359,7 +360,7 @@ ggplot(data = LDC)+geom_bar(aes(x=FIntrospeccion))+
 ```
 
 
-### IV.III Relaciones entre variables
+### Relaciones entre variables
 
 - **Satisfacción personal y frecuencia de instrospección**
 Notamos que no existe relación aparente entre la frecuencia de introspección y la satisfacción personal
@@ -410,6 +411,8 @@ plot(LDC$CIAmigos, LDC$MDAmigos/60, main="Calidad vs Tiempo diario de interacci�
 | Walter Gonzalo Gonzales Cruz | Revisión de los archivos y su  correcta ejecutación |
 |  Derkhenz Ezer Valera Nuez   | Revisión de ortografía y redacción                  |
 |  Jelser Arturo Saldaña Mas   | Revisión bajo la rubrica                        |
+
+
 
 
 ## VI. Bibliografía

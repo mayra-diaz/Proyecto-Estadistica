@@ -1,81 +1,69 @@
 ---
-title: P1
 tags: estadistica
+title: "Relación entre el autoestima y las reuniones sociales constantes"
+author: "Grupo 1"
+date: "Octubre 1, 2021"
+output:
+  ioslides_presentation: 
+    transition: slower
+    incremental: true
+    widescreen: true
+    smaller: true
 ---
 
-# P1
-- **Título:** Relación entre el autoestima y las reuniones sociales constantes
-- **Título corto:** Autoestima Reuniones Sociales
 
-|         Integrantes          |  Código   | Rol   |
-|:----------------------------:|:---------:| ----- |
-|   Ayelen Catacora Juanillo   | 202010225 | Líder |
-|    Mayra Díaz Tramontana     | 201910147 |       |
-| Walter Gonzalo Gonzales Cruz | 202110468 |       |
-|  Derkhenz Ezer Valera Nuez   | 201910470 |       |
-|  Jelser Arturo Saldaña Mas   | 202020140 |       |
+## Autoestima Reuniones Sociales
 
-## I. Tema
+>- Ayelen Catacora Juanillo  202010225Líder
 
->Autoestima e interacciones sociales de estudiantes de la UTEC durante el periodo 2020-2021
+>- Mayra Díaz Tramontana 201910147
 
+>- Walter Gonzalo Gonzales Cruz 202110468
 
-### I.I. Introducción
+>- Derkhenz Ezer Valera Nuez 201910470
+
+>- Jelser Arturo Saldaña Mas 202020140
+
+## Tema{.smaller}
+
+### Autoestima e interacciones sociales estudiantes de la UTEC durante el periodo 2020-2021
+
 Las interacciones sociales ya sea, de manera presencial o virtual, tiene cierto impacto en la autoestima e imagen personal de una persona. Para comprobar esto, se hará un estudio estadístico en la cual nuestra población objeto de estudio serán los adultos jóvenes, estudiantes de UTEC, en Lima.
 
-Se estudiará la relación entre el autoestima y la imagen personal de una persona con respecto a la frecuencia y calidad de sus interacciones sociales, tanto presenciales como virtuales. Esto nos permitirá identificar el impacto de las interacciones, tanto de las de rutina (con sus convivientes) y las ocasionales (ej: salida con amigos) sobre una persona. Es importante resaltar la calidad y disfruta de las personas en cada tipo de interacción y la frecuencia para poder analizar cuáles tienen mayor/menor impacto y hallar las relaciones entre ellas.
+
+## Sobre la investigación
+### Objetivo
+Buscamos comprobar si existe una relación entre el autoestima y la imagen personal de una persona con respecto a la frecuencia y calidad de sus interacciones sociales. Por lo tanto, de existir tal relación, se buscará identificar que aspectos son de mayor relevancia e impacto en el autoestima y la frecuencia y calidad de actividades sociales de una persona.
+
+### Factabilidad
+
+Para lograr llegar a la información que se propone de manera específica y concreta se planea realizar 150 encuestas. A adultos jóvenes, estudiantes de UTEC, en Lima en el 2020-2021, pues son nuestro público objetivo. Dicha encuesta constará de tres partes:
+
+>- Información básica Recolectaremos el sexo y la edad.
+
+>- Interacciones sociales Preguntas acerca de la calidad y frecuencia de sus interacciones sociales son distintos grupos (familia y amigos).
+>- Visión personal Preguntas referentes a el autoestima y la imagen personal.
+  
+
+## Preguntas de investigación
+¿Existe una relación entre la imagen personal y la calidad y frecuencia de las interacciones sociales de un estudiante de UTEC en Lima, en el periodo 2020-2021?
 
 
-### I.II. Objetivo
-Por medio de este estudio estadístico buscamos comprobar si existe una relación entre el autoestima y la imagen personal de una persona con respecto a la frecuencia y calidad de sus interacciones sociales. Por lo tanto, de existir tal relación, se buscará identificar que aspectos  son de mayor relevancia e impacto en el autoestima y la frecuencia y calidad de actividades sociales de una persona.
+## Marco Teórico
+>- Población: Estudiantes de UTEC en Lima en el periodo 2020-2021
 
-### I.III. Preguntas de investigación
-**Generales**
-- ¿Existe una relación entre la autoestima e imagen personal y la calidad y frecuencia de las interacciones sociales de un estudiante de UTEC en Lima, en el periodo 2020-2021?
+>- Unidad muestral: Cada estudiante de UTEC
 
-
-**Específicas**
-- ¿Los estudiantes con alta autoestima y/o un buen concepto de imagen personal llevan a cabo con alta frecuencia interacciones sociales de calidad eficiente?
-- ¿Los estudiantes con baja autoestima y/o un buen concepto de imagen personal llevan a cabo con una baja frecuencia de interacciones sociales de calidad deficiente?
-- ¿Las personas que se reúnen mas de una vez al mes con su familia se sienten bien con su físico y/o personalidad?
-- ¿Las personas que se sienten libres y cómodos de ser ellos mismos con su amigos se reúnen con ellos más de una vez al mes? 
-- ¿Las personas que organizan mas de un evento social al mes se sienten bien consigo mismos (físico y personalidad)?
-- ¿La personas que pasan más de 60 minutos al día con las personas que viven tiene una relación más agradable con su familia?
-- ¿La personas que pasan más de 60 minutos al día con sus amigos tiene una relación mas agradable con sus amigos?
-- ¿Las personas que se consideran más asertivas están más satisfechas con su personalidad y/o físico?
-- ¿La personas que se sienten satisfechas con su personalidad y/o físico se han sentido ofendidos,recientemente, por lo que alguien les haya dicho?
-- ¿Las personas que sienten que se conocen mas están satisfechas con su físico y/o personalidad?
+>- Tipo de muestreo: Muestreo no porbabilístico por conveniencia
 
 
-
-### I.IV. Factibilidad
-
-Para lograr llegar a la información que se propone de manera específica y concreta se planea realizar 150 encuestas. A adultos jóvenes, estudiantes de UTEC, en Lima en el 2020-2021, pues son nuestro público objetivo.  Dicha encuesta constará de tres partes:
-- Información básica
-Recolectaremos el sexo y la edad.
-- Interacciones sociales
-Preguntas acerca de la calidad y frecuencia de sus interacciones sociales son distintos grupos (familia y amigos).
-- Visión personal
-Preguntas referentes a el autoestima y la imagen personal.
-
-## II. Marco Teórico
-### II.I Datos generales
-
-- Población: Estudiantes de UTEC en Lima en el periodo 2020-2021 
-- Unidad muestral: Cada estudiante de UTEC
-- Tipo de muestreo: Muestreo no probabilístico por conveniencia
-
-### II.II Diseño
-#### II.II.I. Población y muestra
-La población de la investigación son los estudiantes de la Universidad de Ingeniería y Tecnología-UTEC, ubicado en Barranco, Lima. De este grupo, se seleccionó 81 observaciones por, principalmente, conveniencia.
-
-### II.III Obtención de datos
+### Obtención de datos
 Para el presente trabajo de investigación, se decidió emplear encuestas con Google Forms, para así poder recopilar la información de los participantes. A fin de asegurar la veracidad y procedencia de los datos, se restringió el acceso a la encuesta a aquellos usuarios que tengan una cuenta de Google que pertenece al dominio de UTEC, es decir, usuarios de la Universidad de Ingeniería y Tecnología.
 
 
-### II.IV Variables
-Se dividió las variables en tres grupos: datos generales, relaciones interpersonales y autoestima.
 
+
+## Variables
 |                                       Pregunta                                       |                   Variable                   |  Tipo de variable  |                Restricciones                |
 |:------------------------------------------------------------------------------------:|:--------------------------------------------:|:------------------:|:-------------------------------------------:|
 |                                   Escriba su edad                                    |                     Edad                     | Numérica discreta  |                Número entero                |
@@ -85,6 +73,12 @@ Se dividió las variables en tres grupos: datos generales, relaciones interperso
 |                 ¿Cuántas veces al mes organiza algún evento social?                  |    Frecuencia de organización de eventos     | Numérica continua  |                Número entero                |
 |          ¿Cuántos minutos al día pasas con las personas con las que vives?           |         Minutos diarios con familia          | Numérica continua  |                Número entero                |
 |                  ¿Cuántos minutos al día conversas con tus amigos?                   |          Minutos diarios con amigos          | Numérica continua  |                Número entero                |
+
+
+## Variables
+
+|                                       Pregunta                                       |                   Variable                   |  Tipo de variable  |                Restricciones                |
+|:------------------------------------------------------------------------------------:|:--------------------------------------------:|:------------------:|:-------------------------------------------:|
 | Selecciona del 1 al 5 qué tan agradable son tus interacciones con su familia nuclear | Calidad de interacciones con familia nuclear | Categórica ordinal |     Número entero en el intervalo [1;5]     |
 | Selecciona del 1 al 5 qué tan agradable son tus interacciones con su familia general | Calidad de interacciones con familia general | Categórica ordinal |     Número entero en el intervalo [1;5]     |
 |     Selecciona del 1 al 5 qué tan agradable son tus interacciones con sus amigos     |     Calidad de interacciones con amigos      | Categórica ordinal |       Opciones, intervalo del 1 al 5        |
@@ -92,6 +86,11 @@ Se dividió las variables en tres grupos: datos generales, relaciones interperso
 |                            Cuánto sientes que te conoces                             |               Autoconocimiento               | Categórica ordinal |       Opciones, intervalo del 1 al 5        |
 |              Qué tan satisfecha estás contigo, en general, actualmente               |        Satisfacción personal general         | Categórica ordinal |     Número entero en el intervalo [1;5]     |
 |                  Qué tan satisfecha estás con tu físico actualmente                  |         Satisfacción personal física         | Categórica ordinal |     Número entero en el intervalo [1;5]     |
+
+
+## Variables
+|                                       Pregunta                                       |                   Variable                   |  Tipo de variable  |                Restricciones                |
+|:------------------------------------------------------------------------------------:|:--------------------------------------------:|:------------------:|:-------------------------------------------:|
 |               Qué tan satisfecha estás con tu personalidad actualmente               |    Satisfacción personal de personalidad     | Categórica ordinal |     Número entero en el intervalo [1;5]     |
 |         ¿Se ha sentido ofendido alguna vez por lo que ha dicho otra persona?         |      Experiencia de haber sido ofendido      | Categórica nominal |                   Sí, No                    |
 |           ¿Cuando está con amigos/as, puede relajarse y ser usted mismo/a?           |             Comodidad con amigos             | Categórica nominal |               Sí, No, A veces               |
@@ -99,24 +98,11 @@ Se dividió las variables en tres grupos: datos generales, relaciones interperso
 |              ¿Cuántas veces al año realizas introspección a tu persona?              |         Frecuencia de introspección          | Categórica nominal  | Nunca, 1 vez al año, Más de 2 veces al año. |
 
 
-## IV. Base de datos
-La base de datos tiene la forma:
-```{r}
+## Base de datos
+```{r echo=FALSE}
 library(readr)
 LD <- read_csv("data.csv")
-head(LD)
-```
-
-
-### IV.I Renombramiento de variables y Limpieza de datos
-
-**Renombramiento de variables**
-
-```{r}
 library(dplyr)
-```
-
-```{r}
 LD %>% rename(
   Marca = `Marca temporal`,
   Edad = `Escriba su edad`,
@@ -138,28 +124,17 @@ LD %>% rename(
   ComodidadA = `¿Cuando está con amigos/as, puede relajarse y ser usted mismo/a?`, 
   POpinionAjena = `¿Cuánto te preocupa la impresión que causas sobre los demás?`, 
   FIntrospeccion  = `¿Cuántas veces al año realizas introspección a tu persona?`) -> LDC
-```
-
-**Limpieza de respuestas**
-
-```{r}
-LDC$FIntrospeccion[
-    LDC$FIntrospeccion == "mas de 2 veces al año"
-    ] <- "Más de 2 veces al año"
-
 
 LDC$FIntrospeccion[
-    LDC$FIntrospeccion == "2 veces al años"
-    ] <- "2 veces al año"
-```
+  LDC$FIntrospeccion == "mas de 2 veces al año"
+  ] <- "Más de 2 veces al año"
 
-**Eliminación de datos atípicos (edades fuera del público objetivo)**
-```{r}
+LDC$FIntrospeccion[
+  LDC$FIntrospeccion == "2 veces al años"
+  ] <- "2 veces al año"
+
 LDC[LDC$Edad < 32, ] -> LDC
-```
 
-**Trabajando con escalas de Likert**
-```{r}
 LDC$CIFamiliaN <- cut(LDC$CIFamiliaN, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
 LDC$CIFamiliaG <- cut(LDC$CIFamiliaG, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
 LDC$CIAmigos <- cut(LDC$CIAmigos, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
@@ -168,15 +143,20 @@ LDC$SPersonal <- cut(LDC$SPersonal, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", 
 LDC$SFisica <- cut(LDC$SFisica, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
 LDC$SPersonalidad <- cut(LDC$SPersonalidad, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
 LDC$POpinionAjena <- cut(LDC$POpinionAjena, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
+
+summary(LDC)
 ```
 
 
+## Datos
+```{r echo=FALSE}
+summary(LDC)
+head(LDC)
+```
 
-## III. Análisis
-### IV.I. Variables numéricas
-
-- Edad
-```{r}
+## Análisis
+### Edad
+```{r echo=FALSE}
 summary(LDC$Edad)
 print("Desviación estándar:")
 sd(LDC$Edad)
@@ -184,8 +164,9 @@ boxplot(LDC$Edad,
         main = "Boxplot Edad")
 ```
 
-- Frecuencia de reuniones familiares
-```{r}
+## Análisis
+### Frecuencia de reuniones familiares
+```{r echo=FALSE}
 summary(LDC$FRFamiliares)
 print("Desviación estándar:")
 sd(LDC$FRFamiliares)
@@ -193,8 +174,9 @@ boxplot(LDC$FRFamiliares,
         main = "Boxplot frecuencia de reuniones familiares")
 ```
 
-- Frecuencia de reuniones amicales
-```{r}
+## Análisis
+### Frecuencia de reuniones amicales
+```{r echo=FALSE}
 summary(LDC$FRAmicales)
 print("Desviación estándar:")
 sd(LDC$FRAmicales)
@@ -202,8 +184,10 @@ boxplot(LDC$FRAmicales,
         main = "Boxplot frecuencia de reuniones amicales")
 ```
 
-- Frecuencia de organización de eventos
-```{r }
+
+## Análisis
+### Frecuencia de organización de eventos
+```{r echo=FALSE}
 summary(LDC$FROrgEventos)
 print("Desviación estándar:")
 sd(LDC$FROrgEventos)
@@ -211,38 +195,40 @@ boxplot(LDC$FROrgEventos,
         main = "Boxplot frecuencia de organziación eventos")
 ```
 
-- Horas diarias con familia
-Para un mejor análisis se convierten los minutos a horas y solo se toman en cuenta los datos que son menores a 17 horas, pues es imposible pasar más tiempo con alguien.
-```{r}
+## Análisis
+### Horas pasadas al día con familia
+```{r echo=FALSE}
 LDC[LDC$MDFamilia < 1020, ] -> data
 summary(data$MDFamilia/60)
 print("Desviación estándar:")
 sd(data$MDFamilia/60)
 boxplot(data$MDFamilia/60,
         main = "Boxplot horas diarias pasadas con familia")
+rm(data)
 ```
 
-- Horas diarias con amigos
-Para un mejor análisis se convierten los minutos a horas y solo se toman en cuenta los datos que son menores a 17 horas, pues es imposible pasar más tiempo con alguien.
-```{r}
-LDC[LDC$MDAmigos < 1020, ] -> data
-summary(data$MDAmigos/60)
+## Análisis
+### Horas pasadas al día con amigos
+```{r echo=FALSE}
+LDC[LDC$MDAmigos < 1020, ] -> data2
+summary(data2$MDAmigos/60)
 print("Desviación estándar:")
-sd(data$MDAmigos/60)
-boxplot(data$MDAmigos/60,
+sd(data2$MDAmigos/60)
+boxplot(data2$MDAmigos/60,
         main = "Boxplot horas diarias pasadas con amigos")
+rm(data2)
 ```
 
 
-### IV.II. Variables categóricas
-Librerías utilizadas:
-```{r}
+
+## Análisis
+### Sexo
+```{r echo=FALSE}
 library(ggplot2)
 library(ggmosaic)
 ```
 
-- Sexo
-```{r}
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=Sexo))+
   ggtitle(label="Barplot de Sexo")+
   theme_classic()+
@@ -250,8 +236,11 @@ ggplot(data = LDC)+geom_bar(aes(x=Sexo))+
   ylab("Cantidad")
 ```
 
-- Calidad de interacciones con familia nuclear
-```{r}
+
+
+## Análisis
+### CIFamiliaN
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=CIFamiliaN))+
   ggtitle(label="Barplot de Calidad de Interacciones con familia nuclear")+
   theme_classic()+
@@ -259,8 +248,9 @@ ggplot(data = LDC)+geom_bar(aes(x=CIFamiliaN))+
   ylab("Cantidad")
 ```
 
-- Calidad de interacciones con familia general
-```{r}
+## Análisis
+### CIFamiliaG
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=CIFamiliaG))+
   ggtitle(label="Barplot de Calidad de Interacciones con familia general")+
   theme_classic()+
@@ -268,8 +258,10 @@ ggplot(data = LDC)+geom_bar(aes(x=CIFamiliaG))+
   ylab("Cantidad")
 ```
 
-- Calidad de interacciones con amigos
-```{r}
+
+## Análisis
+### CIAmigos
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=CIAmigos))+
   ggtitle(label="Barplot de Calidad de Interacciones con amigos")+
   theme_classic()+
@@ -277,8 +269,10 @@ ggplot(data = LDC)+geom_bar(aes(x=CIAmigos))+
   ylab("Cantidad")
 ```
 
-- Percepción de asertividad
-```{r}
+
+## Análisis
+### Asertividad
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=PAsertividad))+
   ggtitle(label="Barplot de percepción de asertividad")+
   theme_classic()+
@@ -286,8 +280,10 @@ ggplot(data = LDC)+geom_bar(aes(x=PAsertividad))+
   ylab("Cantidad")
 ```
 
-- Autoconocimiento
-```{r}
+
+## Análisis
+### Autoconocimiento
+```{r echo=FALSE}
 qplot(LDC$Autoconocimiento, geom="histogram")+
   ggtitle(label="Histograma de autoconocimiento")+
   theme_classic()+
@@ -295,8 +291,10 @@ qplot(LDC$Autoconocimiento, geom="histogram")+
   ylab("Cantidad")
 ```
 
-- Satisfacción personal general
-```{r}
+
+## Análisis
+### Satisfacción personal
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=SPersonalidad))+
   ggtitle(label="Barplot de satisfacción personal")+
   theme_classic()+
@@ -304,8 +302,10 @@ ggplot(data = LDC)+geom_bar(aes(x=SPersonalidad))+
   ylab("Cantidad")
 ```
 
-- Satisfacción personal física
-```{r}
+
+## Análisis
+### Satisfacción física
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=SFisica))+
   ggtitle(label="Barplot de satisfacción fisica")+
   theme_classic()+
@@ -313,8 +313,10 @@ ggplot(data = LDC)+geom_bar(aes(x=SFisica))+
   ylab("Cantidad")
 ```
 
-- Satisfacción personal de personalidad
-```{r}
+
+## Análisis
+### Satisfacción personalidad
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=SPersonalidad))+
   ggtitle(label="Barplot de satisfacción de personalidad")+
   theme_classic()+
@@ -322,8 +324,10 @@ ggplot(data = LDC)+geom_bar(aes(x=SPersonalidad))+
   ylab("Cantidad")
 ```
 
-- Experiencia de haber sido ofendido
-```{r}
+
+## Análisis
+### Experiencia de haber sido ofendido
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=EOfensa))+
   ggtitle(label="Barplot de experiencia de haber sido ofendido")+
   theme_classic()+
@@ -331,8 +335,9 @@ ggplot(data = LDC)+geom_bar(aes(x=EOfensa))+
   ylab("Cantidad")
 ```
 
-- Comodidad con amigos
-```{r}
+## Análisis
+### Comodidad con amigos
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=ComodidadA))+
   ggtitle(label="Barplot de comodidad con amigos")+
   theme_classic()+
@@ -340,8 +345,10 @@ ggplot(data = LDC)+geom_bar(aes(x=ComodidadA))+
   ylab("Cantidad")
 ```
 
-- Preocupación de opinión ajena
-```{r}
+
+## Análisis
+### Preocupación de opinión ajena
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=POpinionAjena))+
   ggtitle(label="Barplot de preocupación de opinión ajena")+
   theme_classic()+
@@ -349,8 +356,9 @@ ggplot(data = LDC)+geom_bar(aes(x=POpinionAjena))+
   ylab("Cantidad")
 ```
 
-- Frecuencia de introspección
-```{r}
+## Análisis
+### Frecuencia de introspección
+```{r echo=FALSE}
 ggplot(data = LDC)+geom_bar(aes(x=FIntrospeccion))+
   ggtitle(label="Barplot de frecuencia de introspección")+
   theme_classic()+
@@ -359,62 +367,41 @@ ggplot(data = LDC)+geom_bar(aes(x=FIntrospeccion))+
 ```
 
 
-### IV.III Relaciones entre variables
-
-- **Satisfacción personal y frecuencia de instrospección**
-Notamos que no existe relación aparente entre la frecuencia de introspección y la satisfacción personal
-
+## Análisis
+### Satisfacción personal y frecuencia de instrospección
 ```{r}
 mosaicplot(table(LDC$FIntrospeccion,LDC$SPersonal),
-    main="Satisfacción personal y frecuencia de instrospección")
+           main="Satisfacción personal y frecuencia de instrospección")
 ```
 
-- **Calidad y frecuencia de interacción con amigos**
-Notamos una ligera relación entre ellas, pues aumenta la frecuencia cuando aumenta la calidad.
+
+## Análisis
+### Calidad vs Tiempo de interacción amical
 ```{r}
 plot(LDC$CIAmigos, LDC$FRAmicales, main="Calidad vs Tiempo de interacción amical",
    xlab="Calidad", ylab="Frecuencia", pch=19)
 ```
 
-- **Calidad y frecuencia de interacción con familia**
-No se puede determinar una relación exacta.
+## Análisis
+### Calidad vs Tiempo de interacción familiar
 ```{r}
 plot(LDC$CIFamiliaG, LDC$FRFamiliares, main="Calidad vs Tiempo de interacción familiar",
    xlab="Calidad", ylab="Frecuencia", pch=19)
 ```
 
-- **Calidad vs Tiempo diario de interacción familiar**
-Notamos que la calidad de estas interacciones disminuyen al aumentar el tiempo diario de interacción con la familia.
+## Análisis
+### Calidad vs Tiempo diario de interacción familiar
 ```{r}
 plot(LDC$CIFamiliaN, LDC$MDFamilia/60, main="Calidad vs Tiempo diario de interacción familiar",
    xlab="Calidad", ylab="Tiempo en horas", pch=19)
 ```
 
-- **Calidad vs Tiempo diario de interacción amical**
-Notamos que la calidad de estas interacciones aumentan al aumentar el tiempo diario de interacción con la familia.
+## Análisis
+### Calidad vs Tiempo diario de interacción amical
 ```{r}
 plot(LDC$CIAmigos, LDC$MDAmigos/60, main="Calidad vs Tiempo diario de interacción amical",
    xlab="Calidad", ylab="Tiempo en horas", pch=19)
 ```
 
 
-
-
-
-
-## V. Planificación
-|          Integrante          | Responsabilidad                                     |
-|:----------------------------:|:--------------------------------------------------- |
-|   Ayelen Catacora Juanillo   | Líder, presentación y entrega del P1                |
-|    Mayra Díaz Tramontana     | Organización interna    |
-| Walter Gonzalo Gonzales Cruz | Revisión de los archivos y su  correcta ejecutación |
-|  Derkhenz Ezer Valera Nuez   | Revisión de ortografía y redacción                  |
-|  Jelser Arturo Saldaña Mas   | Revisión bajo la rubrica                        |
-
-
-## VI. Bibliografía
-Fuentes, P. M. D. C. (2013, 26 agosto). Cómo influye la autoestima en las relaciones interpersonales. Universidad de Almería. Recuperado de: http://repositorio.ual.es/bitstream/handle/10835/2298/Trabajo.pdf?sequence=1&fbclid=IwAR04JddRShBq73XfyOr3NHOXcYkrwWClMDeIZsWRXRLlL_TnhG16PgS08_U
-
-Garcia, I. (2021, 22 junio). Autoestima y asertividad: ¿conoces la relación? Grupo XXI - Psicología Aplicada. Recuperado de: https://www.grupoxxi-psicologia.net/blog/autoestima-y-asertividad/?fbclid=IwAR0OL46z342Wo0KcIo3aLS2odK3SWhzj_b2Uowdqum_VOsOQfjN0HpddFN4
-
-Torres, A. (2021, 17 septiembre). La escala de autoestima de Rosenberg: ¿en qué consiste? Psicología y Mente. Recuperado de: https://psicologiaymente.com/clinica/escala-autoestima-rosenberg
+# Gracias

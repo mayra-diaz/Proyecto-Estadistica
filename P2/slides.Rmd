@@ -1,0 +1,164 @@
+---
+tags: estadistica
+title: "Relación entre la visión personal y las interacciones sociales"
+author: "Grupo 1"
+date: "Noviembre 5, 2021"
+output:
+  ioslides_presentation: 
+    transition: slower
+    incremental: true
+    widescreen: true
+    smaller: true
+---
+
+
+## Visión Personal e Interacciones Sociales
+
+>- Ayelen Catacora Juanillo  202010225
+
+>- Mayra Díaz Tramontana 201910147
+
+>- Walter Gonzalo Gonzales Cruz 202110468
+
+>- Derkhenz Ezer Valera Nuez 201910470
+
+>- Jelser Arturo Saldaña Mas 202020140
+
+## Tema{.smaller}
+
+### Visión personal e interacciones sociales estudiantes de la UTEC durante el periodo 2020-2021
+
+Las interacciones sociales ya sea, de manera presencial o virtual, tiene cierto impacto en la visión personal de una persona. Para comprobar esto, se hará un estudio estadístico en la cual nuestra población objeto de estudio serán los adultos jóvenes, estudiantes de UTEC, en Lima.
+
+
+## Sobre la investigación
+### Objetivo
+Buscamos comprobar si existe una relación entre la visión personal de una persona con respecto a la frecuencia y calidad de sus interacciones sociales. De existir tal relación, se buscará identificar qué aspectos son de mayor relevancia e impacto.
+
+### Factabilidad
+
+Para lograr llegar a la información que se propone de manera específica y concreta se planea realizar 150 encuestas. A adultos jóvenes en Lima en el 2020-2021. 
+
+Dicha encuesta constará de tres partes:
+
+>- Información básica:
+    Sexo y la edad.
+
+>- Interacciones sociales:
+    Calidad y frecuencia de sus interacciones sociales con distintos grupos (familia y amigos).
+    
+>- Visión personal:
+    Preguntas referentes a su visión y personal.
+  
+
+## Preguntas de investigación
+¿Existe una relación entre la imagen personal y la calidad y frecuencia de las interacciones sociales de un estudiante de UTEC en Lima, en el periodo 2020-2021?
+
+
+## Marco Teórico
+>- Población: adultos jóvenes en Lima en el periodo 2020-2021
+
+>- Unidad muestral: cada adulto jóven que llena la encuesta
+
+>- Tipo de muestreo: muestreo no probabilístico por conveniencia
+
+
+### Obtención de datos
+Para el presente trabajo de investigación, se decidió emplear encuestas con Google Forms, para así poder recopilar la información de los participantes. A fin de asegurar la veracidad y procedencia de los datos, se restringió el acceso a la encuesta a aquellos usuarios que tengan una cuenta de Google y solo puedan llenarla 1 vez.
+
+
+
+
+## Variables
+|                                       Pregunta                                       |                   Variable                   |  Tipo de variable  |                Restricciones                |
+|:------------------------------------------------------------------------------------:|:--------------------------------------------:|:------------------:|:-------------------------------------------:|
+|                                   Escriba su edad                                    |                     Edad                     | Numérica discreta  |                Número entero                |
+|                                  Seleccione su sexo                                  |                     Sexo                     | Categórica nominal |          Femenino, Masculino, Otro          |
+|                  ¿Cuántas veces al mes se reúne con sus familiares?                  |      Frecuencia de reuniones familiares      | Numérica continua  |                Número entero                |
+|                    ¿Cuántas veces al mes se reúne con sus amigos?                    |       Frecuencia de reuniones amicales       | Numérica continua  |                Número entero                |
+|                 ¿Cuántas veces al mes organiza algún evento social?                  |    Frecuencia de organización de eventos     | Numérica continua  |                Número entero                |
+|          ¿Cuántos minutos al día pasas con las personas con las que vives?           |         Minutos diarios con familia          | Numérica continua  |                Número entero                |
+|                  ¿Cuántos minutos al día conversas con tus amigos?                   |          Minutos diarios con amigos          | Numérica continua  |                Número entero                |
+
+
+## Variables
+
+|                                       Pregunta                                       |                   Variable                   |  Tipo de variable  |                Restricciones                |
+|:------------------------------------------------------------------------------------:|:--------------------------------------------:|:------------------:|:-------------------------------------------:|
+| Selecciona del 1 al 5 qué tan agradable son tus interacciones con su familia nuclear | Calidad de interacciones con familia nuclear | Categórica ordinal |     Número entero en el intervalo [1;5]     |
+| Selecciona del 1 al 5 qué tan agradable son tus interacciones con su familia general | Calidad de interacciones con familia general | Categórica ordinal |     Número entero en el intervalo [1;5]     |
+|     Selecciona del 1 al 5 qué tan agradable son tus interacciones con sus amigos     |     Calidad de interacciones con amigos      | Categórica ordinal |       Opciones, intervalo del 1 al 5        |
+|                             Cuán asertivo te consideras                              |          Percepción de asertividad           | Categórica ordinal |    Número entero en el intervalo [1;10]     |
+|                            Cuánto sientes que te conoces                             |               Autoconocimiento               | Categórica ordinal |       Opciones, intervalo del 1 al 5        |
+|              Qué tan satisfecha estás contigo, en general, actualmente               |        Satisfacción personal general         | Categórica ordinal |     Número entero en el intervalo [1;5]     |
+|                  Qué tan satisfecha estás con tu físico actualmente                  |         Satisfacción personal física         | Categórica ordinal |     Número entero en el intervalo [1;5]     |
+
+
+## Variables
+|                                       Pregunta                                       |                   Variable                   |  Tipo de variable  |                Restricciones                |
+|:------------------------------------------------------------------------------------:|:--------------------------------------------:|:------------------:|:-------------------------------------------:|
+|               Qué tan satisfecha estás con tu personalidad actualmente               |    Satisfacción personal de personalidad     | Categórica ordinal |     Número entero en el intervalo [1;5]     |
+|           ¿Cuando está con amigos/as, puede relajarse y ser usted mismo/a?           |             Comodidad con amigos             | Categórica nominal |               Sí, No, A veces               |
+|             ¿Cuánto te preocupa la impresión que causas sobre los demás?             |        Preocupación de opinión ajena         | Categórica ordinal |     Número entero en el intervalo [1;5]     |
+|              ¿Cuántas veces al año realizas introspección a tu persona?              |         Frecuencia de introspección          | Categórica nominal  | Nunca, 1 vez al año, Más de 2 veces al año. |
+
+
+## Base de datos
+```{r echo=FALSE}
+library(readr)
+LD <- read_csv("data.csv")
+library(dplyr)
+LD %>% rename(
+  Marca = `Marca temporal`,
+  Edad = `Escriba su edad`,
+  Sexo = `Seleccione su sexo`, 
+  FRFamiliares = `¿Cuántas veces al mes se reúne con sus familiares?`, 
+  FRAmicales = `¿Cuántas veces al mes se reúne con sus amigos?`, 
+  FROrgEventos = `¿Cuántas veces al mes organiza algún evento social?`, 
+  MDFamilia = `¿Cuántos minutos al día pasas con las personas con las que vives?`,
+  MDAmigos = `¿Cuántos minutos al día conversas con tus amigos?`, 
+  CIFamiliaN = `Selecciona del 1 al 5 qué tan agradable son tus interacciones con... [Familia nuclear]`, 
+  CIFamiliaG = `Selecciona del 1 al 5 qué tan agradable son tus interacciones con... [Familia en general]`, 
+  CIAmigos = `Selecciona del 1 al 5 qué tan agradable son tus interacciones con... [Amigos]`,
+  PAsertividad = `Cuán asertivo te consideras`, 
+  Autoconocimiento = `Cuánto sientes que te conoces`, 
+  SPersonal = `Qué tan satisfecha estás contigo, en general, actualmente`, 
+  SFisica = `Qué tan satisfecha estás con tu físico actualmente`, 
+  SPersonalidad = `Qué tan satisfecha estás con tu personalidad actualmente`,
+  ComodidadA = `¿Cuando está con amigos/as, puede relajarse y ser usted mismo/a?`, 
+  POpinionAjena = `¿Cuánto te preocupa la impresión que causas sobre los demás?`, 
+  FIntrospeccion  = `¿Cuántas veces al año realizas introspección a tu persona?`) -> LDC
+
+LDC$FIntrospeccion[
+  LDC$FIntrospeccion == "mas de 2 veces al año"
+  ] <- "Más de 2 veces al año"
+
+LDC$FIntrospeccion[
+  LDC$FIntrospeccion == "2 veces al años"
+  ] <- "2 veces al año"
+
+LDC[LDC$Edad < 32, ] -> LDC
+
+LDC$CIFamiliaN <- cut(LDC$CIFamiliaN, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
+LDC$CIFamiliaG <- cut(LDC$CIFamiliaG, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
+LDC$CIAmigos <- cut(LDC$CIAmigos, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
+LDC$PAsertividad <- cut(LDC$PAsertividad, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
+LDC$SPersonal <- cut(LDC$SPersonal, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
+LDC$SFisica <- cut(LDC$SFisica, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
+LDC$SPersonalidad <- cut(LDC$SPersonalidad, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
+LDC$POpinionAjena <- cut(LDC$POpinionAjena, breaks=c(0,1,2,3,4,5), labels=c("Muy poco", "Poco", "Neutro", "Mucho", "Demasiado"))
+
+summary(LDC)
+```
+
+
+## Datos
+```{r echo=FALSE}
+summary(LDC)
+head(LDC)
+```
+
+
+
+
+# Gracias
